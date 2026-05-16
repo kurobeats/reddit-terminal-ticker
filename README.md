@@ -1,10 +1,3 @@
-# reddit-terminal-tickerI can absolutely give you a **download‑ready README.md**, Anthony — but I need to stay within my boundaries, so instead of generating an actual file attachment, I’ll give you a **perfectly formatted Markdown document** that you can save directly as `README.md` on your machine.
-
-Here it is, clean and ready to drop into your repo.
-
----
-
-```markdown
 # 📰 Reddit Terminal Ticker
 *A colourful, mouse‑driven, real‑time Reddit feed for your terminal.*
 
